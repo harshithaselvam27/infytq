@@ -10,5 +10,5 @@ def find_leap_years(given_year):
         given_year=given_year+1
     return list_of_leap_years
 
-list_of_leap_years=find_leap_years(1996)
+list_of_leap_years=find_leap_years(2000)
 print(list_of_leap_years)
